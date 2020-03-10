@@ -83,7 +83,7 @@ public class View extends JFrame {
         // draw the ball on path
         //int pathX = path.get(pathIndex);
         //int pathY = path.get(pathIndex + 1);
-		if()
+	    
         g.setColor(Color.BLACK);
         g.fillOval(w, h, 50, 50);  //Fills an oval bounded by the specified rectangle with the current color.
     }
